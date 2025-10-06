@@ -1,0 +1,20 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "tailwindcss";
+@plugin "daisyui";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.title{
+    @apply text-3xl font-bold;
+     font-family: 'Rancho', cursive;
+   
+}
+
+.input-label{
+    @apply text-lg font-semibold;
+    font-family: 'raleway', sans-serif;
+}
