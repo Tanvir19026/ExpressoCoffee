@@ -15,9 +15,6 @@ where users can Create, Read, Update, and Delete (CRUD) coffee items.
 - **Full CRUD Operations** for managing coffee items.  
 - **Layout Components** for consistent UI across pages.  
 
-**Live Project:** https://expressocoffee-ad7c6.web.app/
-
-
 ### Tech Stack
 
 - **Frontend:** React, Tailwind CSS,Bootstrap
